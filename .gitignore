@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+data/source-pdfs/
+data/extracted/
+data/chunks/
+
+frontend/dist/
