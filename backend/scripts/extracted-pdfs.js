@@ -156,3 +156,4 @@ main().catch((error) => {
   console.error("Extraction script failed:", error);
   process.exitCode = 1;
 });
+console.log(":akshit")
