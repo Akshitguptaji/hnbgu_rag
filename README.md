@@ -5,3 +5,4 @@ npm pkg set type=module
 npm install langchain @langchain/core pdf-parse
 
 npm install @langchain/textsplitters @langchain/ollama express dotenv cors helmet pg pgvector
+just testing the jira
